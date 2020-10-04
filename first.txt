@@ -1,2 +1,4 @@
 gitの練習をしていきます。
-second
+基本的なワークフローの勉強です。
+・git add
+・git commit
